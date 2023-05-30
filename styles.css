@@ -9,12 +9,14 @@
 }
 
 p{
+    font-family: 'Signika Negative', sans-serif;
     font-size: xx-large;
     padding: 15%;
     color:#E64848;
 }
 
 button{
+     font-family: 'Signika Negative', sans-serif;
       font-size: 16px;
       padding: 10px 20px;
       background-color: #FF9494;
