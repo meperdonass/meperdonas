@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function() {
-    alert('Gracias <3, escribime jaja')
+    window.location.href = "perro.html";
 });
 
 const noBtn = document.querySelector('#noBtn');
